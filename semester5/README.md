@@ -8,4 +8,6 @@
 
 ### [Operating systems](https://github.com/kpirap18/BMSTU-OS-sem5)
 
+### [DataBase](https://github.com/kpirap18/BMSTU-DB-sem5)
+
 ### [Research work, еще не полная версия](https://github.com/kpirap18/BMSTU-RW-sem5)
