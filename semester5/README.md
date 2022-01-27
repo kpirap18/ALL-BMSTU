@@ -10,4 +10,4 @@
 
 ### [DataBase](https://github.com/kpirap18/BMSTU-DB-sem5)
 
-### [Research work, еще не полная версия](https://github.com/kpirap18/BMSTU-RW-sem5)
+### [Research work](https://github.com/kpirap18/BMSTU-RW-sem5)
